@@ -1,4 +1,4 @@
-# Flixster
+# Flixter
 
 ## Flix Part 2
 
