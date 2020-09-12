@@ -53,7 +53,6 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
             }
         }
         task.resume()
-        // Do any additional setup after loading the view.
     }
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
