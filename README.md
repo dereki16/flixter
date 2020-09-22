@@ -15,9 +15,6 @@
 ### App Walkthrough GIF
 GIF created with [recordit](https://recordit.co/sJGkJAnEk1).
 
-### Notes
-Describe any challenges encountered while building the app.
-
 ---
 
 ## Flix Part 1
