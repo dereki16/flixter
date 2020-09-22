@@ -39,6 +39,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
             
             print(dataDictionary)
 
+
               // TODO: Get the array of movies
               // TODO: Store the movies in a property to use elsewhere
               // TODO: Reload your table view data
@@ -67,6 +68,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         let posterUrl = URL(string: baseUrl + posterPath)
         
         cell.posterView.af.setImage(withURL: posterUrl!)
+        
         
            return cell
        }

@@ -36,7 +36,12 @@ class MovieDetailsViewController: UIViewController {
         let backdropPath = movie["backdrop_path"] as! String
         let backdropUrl = URL(string: "https://image.tmdb.org/t/p/w780" + backdropPath)
         backdropView.af.setImage(withURL: backdropUrl!)
+        
+
+        
+        
     }
+    
     
 
     /*
